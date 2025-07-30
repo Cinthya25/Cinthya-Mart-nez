@@ -24,11 +24,11 @@ Análisis del embudo de conversión en una app de venta de productos alimenticio
 
 ### 🚕 Análisis de viajes con Zuber
 Exploración de datos, visualización y prueba de hipótesis sobre trayectos de taxi en Chicago.  
-🔗 [Ver repositorio](https://github.com/tu-usuario/proyecto-zuber)
+🔗 [Ver repositorio](https://tripleten.com/trainer/data-analyst/lesson/d31b4867-8870-44f1-a923-d728048022d7/task/d6f12919-6192-4ff4-81e2-8e7840e42681/?from=program)
 
 ### 📞 Operadores ineficaces - CallMeMaybe
 Evaluación de desempeño de operadores de un servicio de telefonía mediante estadística.  
-🔗 [Ver repositorio](https://github.com/tu-usuario/proyecto-callmemaybe)
+🔗 [Ver repositorio](https://tripleten.com/trainer/data-analyst/lesson/e3b255f4-1c60-4029-81c8-99c9f6f53d9d/task/5ce99869-706a-412a-a91d-508e6e6f758e/?from=program)
 
 ---
 
